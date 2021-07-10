@@ -1,0 +1,88 @@
+body {
+    background: grey;
+    margin: 0  ;
+}
+header {
+    background: white;
+    text-align: center;
+}
+header h1{
+    margin: 0%;
+}
+img{
+    width: 100%;
+}
+.master{
+    width: 500px;
+    margin: auto;
+}
+
+
+/*----First Post----*/
+
+.first div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.first div:last-child{
+    display: inline-block;
+    width: 15%;
+}
+.firstpost{
+    background: white;
+    margin-top: 5px;
+}
+.p1{
+    margin-left: 10px;
+}
+
+/*----Second Post----*/
+
+.second div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.second div:last-child{
+    display: inline-block;
+    width: 15%;
+}
+div.secondpost{
+    background: white;
+}
+.p2{
+    margin-left: 10px;
+}
+
+/*----thrid Post----*/
+
+.thrid div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.thrid div:last-child{
+    display: inline-block;
+    width: 15%;
+}
+div.thridpost{
+    background: white;
+}
+.p3{
+    margin-left: 10px;
+}
+
+/*----fourth Post----*/
+
+.fourth div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.fourth div:last-child{ 
+    display: inline-block;
+    width: 15%;
+}
+div.fourthpost{
+    background: white;
+}
+.p4{
+    margin-left: 10px;
+}
